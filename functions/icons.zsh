@@ -38,6 +38,7 @@ case $POWERLEVEL9K_MODE in
       DISK_ICON                      $'\uE1AE '             # 
       OK_ICON                        $'\u2714'              # ✔
       FAIL_ICON                      $'\u2718'              # ✘
+      CIRCLE_ICON                    $''
       SYMFONY_ICON                   'SF'
       NODE_ICON                      $'\u2B22'              # ⬢
       MULTILINE_FIRST_PROMPT_PREFIX  $'\u256D'$'\U2500'     # ╭─
@@ -138,6 +139,7 @@ case $POWERLEVEL9K_MODE in
       DISK_ICON                      $'\uF0A0 '             # 
       OK_ICON                        $'\u2714'              # ✔
       FAIL_ICON                      $'\u2718'              # ✘
+      CIRCLE_ICON                    $''
       SYMFONY_ICON                   'SF'
       NODE_ICON                      $'\u2B22'              # ⬢
       MULTILINE_FIRST_PROMPT_PREFIX  $'\u256D'$'\U2500'     # ╭─
@@ -243,6 +245,7 @@ case $POWERLEVEL9K_MODE in
       DISK_ICON                      '\u'$CODEPOINT_OF_AWESOME_HDD_O' '             # 
       OK_ICON                        '\u'$CODEPOINT_OF_AWESOME_CHECK                # 
       FAIL_ICON                      '\u'$CODEPOINT_OF_AWESOME_TIMES                # 
+      CIRCLE_ICON                    $''
       SYMFONY_ICON                   'SF'
       NODE_ICON                      $'\u2B22'                                      # ⬢
       MULTILINE_FIRST_PROMPT_PREFIX  $'\u256D'$'\U2500'                             # ╭─
@@ -336,6 +339,7 @@ case $POWERLEVEL9K_MODE in
       DISK_ICON                      $'\uF0A0'              # 
       OK_ICON                        $'\uF00C'              # 
       FAIL_ICON                      $'\uF00D'              # 
+      CIRCLE_ICON                    $'\uF111'              # 
       SYMFONY_ICON                   $'\uE757'              # 
       NODE_ICON                      $'\uE617 '             # 
       MULTILINE_FIRST_PROMPT_PREFIX  $'\u256D'$'\U2500'     # ╭─
@@ -432,6 +436,7 @@ case $POWERLEVEL9K_MODE in
       DISK_ICON                      $'hdd '
       OK_ICON                        $'\u2714'              # ✔
       FAIL_ICON                      $'\u2718'              # ✘
+      CIRCLE_ICON                    $''
       SYMFONY_ICON                   'SF'
       NODE_ICON                      $'\u2B22'              # ⬢
       MULTILINE_FIRST_PROMPT_PREFIX  $'\u256D'$'\U2500'     # ╭─
